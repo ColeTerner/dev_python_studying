@@ -1,0 +1,3 @@
+#The file voldemort.py encrypts all the files inside the linux directory(except inner direcories)
+
+#The file decrypt.py decrypts the data which were encrypted by voldemort.py. It also sets secretphrase to unlock the corrupted files and proposes end user to input that to the scrypt
